@@ -1,5 +1,19 @@
 ## Introduction-to-Machine-Learning by Bekmyrza Abdykadyrov COM-20
-# Lecture.
+
+# Syllabus
+
+[Syllabus.pdf](https://github.com/user-attachments/files/15800857/Syllabus.pdf)
+
+
+#Screenshots:
+
+
+![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/a6933e44-c612-4edc-9582-53106f8f75d2)
+
+
+
+
+# Lecture
 
 [Introduction to Machine Learning..pdf](https://github.com/user-attachments/files/15799641/Introduction.to.Machine.Learning.pdf)
 
