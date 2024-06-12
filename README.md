@@ -54,11 +54,43 @@ https://docs.google.com/forms/d/e/1FAIpQLSeuMLJeoHFaIE_JK-QBKwO3O-rZIqU_zBP--Olp
 
 
 
-# Practical Application of Machine Learning. (Linear Regression)
+# Practical Application of Machine Learning. 
 
-#Screenshots:
 
-![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/c7a84513-3220-4eb8-a6a5-6616d58bdb43)
-![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/1bf04fde-8195-4124-b4c0-ed02d89d7b68)
+# Linear Regression example
 
+![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/12e3638c-56e1-424d-8628-609e2961d08c)
+
+
+# Support Vector Machine (SVM) example
+![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/df7bcec5-6048-41f7-8f8c-557ca0496ef2)
+
+#  Decision Tree Classification example
+![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/df4480c4-4e05-459b-af7a-0d72ff61831f)
+
+
+
+
+#Evaluation Criteria
+
+1) Content Understanding (20 points)
+
+2) Accuracy (10 points): The descriptions and comparisons of the machine learning algorithms are accurate and clear.
+Comprehension (10 points): The audience demonstrates a good understanding of each algorithm through responses and engagement.
+Presentation Quality (30 points)
+
+3) Clarity (10 points): The presentation is clear, logically structured, and easy to follow.
+Engagement (10 points): The presentation keeps the audience engaged and interested.
+Visuals (10 points): The visuals are helpful, relevant, and enhance the understanding of the content.
+Practical Application (20 points)
+
+4) Examples (10 points): The examples used are relevant, clear, and effectively illustrate the concepts.
+Real-world Applications (10 points): The presentation connects the algorithms to real-world applications and provides practical insights.
+Audience Interaction (20 points)
+
+5) Q&A (10 points): Questions from the audience are addressed thoroughly and accurately.
+Participation (10 points): There is active participation and engagement from the audience throughout the presentation.
+Quiz Performance (10 points)
+
+6) Score (10 points): Audience members score well on the quiz (each quiz question is worth 1 point, and the total quiz score is scaled to 10 points).
 
