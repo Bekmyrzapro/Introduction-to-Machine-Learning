@@ -40,6 +40,9 @@
 https://docs.google.com/forms/d/e/1FAIpQLSeuMLJeoHFaIE_JK-QBKwO3O-rZIqU_zBP--OlpQR9r5vLetw/viewform?usp=sf_link
 
 
+
+
+
 #Screenshots:
 ![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/b2400262-51c3-4eea-9b76-14a01117a5c5)
 ![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/c008327f-03c2-458f-adfe-587e52030564)
