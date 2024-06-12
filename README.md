@@ -1,4 +1,4 @@
-![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/cea3b522-fdaf-4dd5-a7e7-7181fef4716d)## Introduction-to-Machine-Learning by Bekmyrza Abdykadyrov COM-20
+## Introduction-to-Machine-Learning by Bekmyrza Abdykadyrov COM-20
 
 # Syllabus
 
