@@ -68,7 +68,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSeuMLJeoHFaIE_JK-QBKwO3O-rZIqU_zBP--Olp
 #  Decision Tree Classification example
 ![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/df4480c4-4e05-459b-af7a-0d72ff61831f)
 
+#  Random Forest Classification Example
 
+![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/80a29817-c3ce-4cad-b243-5ec3ed07a342)
 
 
 
