@@ -30,6 +30,7 @@
 
 #Screenshots:
 
+
 ![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/20edede1-5376-4411-bacc-fb778061cf9a)
 ![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/68192bec-e7ce-4b94-8f98-6962c24642c6)
 ![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/df4539d1-1860-47b7-a8ab-6687dbc176f5)
@@ -43,10 +44,20 @@ https://docs.google.com/forms/d/e/1FAIpQLSeuMLJeoHFaIE_JK-QBKwO3O-rZIqU_zBP--Olp
 
 
 
+
+
+
 #Screenshots:
 ![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/b2400262-51c3-4eea-9b76-14a01117a5c5)
 ![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/c008327f-03c2-458f-adfe-587e52030564)
 
 
+
+# Practical Application of Machine Learning. (Linear Regression)
+
+#Screenshots:
+
+![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/c7a84513-3220-4eb8-a6a5-6616d58bdb43)
+![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/1bf04fde-8195-4124-b4c0-ed02d89d7b68)
 
 
