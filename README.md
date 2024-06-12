@@ -37,9 +37,10 @@
 
 
 
-![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/e175acb8-821e-4907-a79d-e8eaabebac10)
 
 
+
+[slides.pdf](https://github.com/user-attachments/files/15806862/slides.pdf)
 
 
 #Screenshots:
