@@ -1,4 +1,4 @@
-## Introduction-to-Machine-Learning by Bekmyrza Abdykadyrov COM-20
+### Introduction-to-Machine-Learning by Bekmyrza Abdykadyrov COM-20
 
 # Syllabus
 
