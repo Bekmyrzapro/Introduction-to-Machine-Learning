@@ -1,4 +1,4 @@
-## Introduction-to-Machine-Learning by Bekmyrza Abdykadyrov COM-20
+![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/cea3b522-fdaf-4dd5-a7e7-7181fef4716d)## Introduction-to-Machine-Learning by Bekmyrza Abdykadyrov COM-20
 
 # Syllabus
 
@@ -34,6 +34,23 @@
 ![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/20edede1-5376-4411-bacc-fb778061cf9a)
 ![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/68192bec-e7ce-4b94-8f98-6962c24642c6)
 ![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/df4539d1-1860-47b7-a8ab-6687dbc176f5)
+
+
+
+![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/e175acb8-821e-4907-a79d-e8eaabebac10)
+
+
+
+
+#Screenshots:
+
+
+![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/c2123c2b-ef21-4116-8f60-25e3456c7d63)
+![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/b7154319-3349-42ee-abb5-6859afe7555b)
+![image](https://github.com/Bekmyrzapro/Introduction-to-Machine-Learning/assets/74038682/383165f5-d675-470a-a29b-2572e848800d)
+
+
+
 
 # Link to Google Form (Quiz)
 
